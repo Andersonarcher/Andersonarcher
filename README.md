@@ -1,16 +1,18 @@
-## Hi there 👋
+![Banner](banner.png)
 
-<!--
-**Andersonarcher/Andersonarcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🏹 Anderson Rocha | Andersonarcher
 
-Here are some ideas to get you started:
+**The Hunter Knows The Time Of The Hunt**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Patience, Focus, Aim
+
+### 🚀 About Me
+- 📚 Studying Linux, Shell Script and Infrastructure at DIO
+- 🎨 Passionate about Afro art, culture and ancestry
+- 💻 Turning learning into real projects on GitHub
+
+### 🛠️ What I Do
+- Linux | Shell Script | Git & GitHub | Infrastructure
+
+### 📂 Featured Project
+- [LINUX-PROJETO-1-DIO-provisionamento](https://github.com/Andersonarcher/LINUX-PROJETO-1-DIO-provisionamento)
